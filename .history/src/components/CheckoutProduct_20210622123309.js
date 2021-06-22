@@ -33,9 +33,9 @@ function CheckoutProduct({ id,
 
     //toast
 
-    // const toastalrt = ()=>{
-    //     toast.error('Item removed from basket')
-    // }
+    const toastalrt = ()=>{
+        toast.error('Item removed from basket')
+    }
 
 
     const removeITemFromBasket=()=>{
